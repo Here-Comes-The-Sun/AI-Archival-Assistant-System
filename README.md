@@ -21,3 +21,5 @@ OpenAI의 Whisper 모델을 사용하여 자동으로 오디오나 영상 기록
 **👩🏻‍💻 김민경**
 <br/>General God
 <br/>🔗 [Github](https://github.com/MinkyoungKim-22100090)
+
+## 판넬
